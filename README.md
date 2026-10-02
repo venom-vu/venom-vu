@@ -33,13 +33,13 @@
 
 ---
 
-### Tech Stack & Arsenal
+<!-- ### Tech Stack & Arsenal
 
 <div align="center">
   <img src="assets/tech-stack.svg" alt="Tech Stack Icons" />
 </div>
 
-<br/>
+<br/> -->
 
 #### Frontend & UI Frameworks
 
