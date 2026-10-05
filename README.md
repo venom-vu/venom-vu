@@ -5,7 +5,7 @@
 
   <!-- Animated Dynamic Typing SVG -->
   <a href="https://github.com/venom-vu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00DC82&center=true&vCenter=true&width=620&lines=Fullstack+Engineer+%40+VTechcom;Vue.js+3+%7C+Nuxt+3+%7C+NestJS;Architecting+High-Concurrency+Web+Systems;Cardano+Blockchain+%26+Hydra+Layer-2;Clean+Code+%7C+Strict+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00DC82&center=true&vCenter=true&width=620&lines=Fullstack+Engineer+%40+VTechcom;Vue.js+%7C+Nuxt+%7C+NestJS;Architecting+High-Concurrency+Web+Systems;Cardano+Blockchain+%26+Hydra+Layer-2;Clean+Code+%7C+Strict+TypeScript" alt="Typing SVG" />
   </a>
 
 <br/><br/>
@@ -27,7 +27,7 @@
 ### About Me
 
 - Fullstack Software Engineer at **[VTechcom](https://vtechcom.org)** based in Vietnam.
-- Focused on **Vue 3**, **Nuxt 3**, and **NestJS** for building scalable web systems.
+- Focused on **Vue.js**, **Nuxt** and **NestJS** for building scalable web systems.
 - Exploring **Cardano blockchain** & **Hydra** layer-2 scalability.
 - Writing clean, typed code with **TypeScript** across the full stack.
 
